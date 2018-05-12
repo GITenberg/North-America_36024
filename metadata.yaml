@@ -1,0 +1,34 @@
+_repo: North-America_36024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, Israel C. (Cook)
+    aliases:
+    - Russell, Israel Cook
+    - Russell, I. C. (Israel Cook)
+    birthdate: 1852
+    deathdate: 1906
+    gutenberg_agent_id: '38034'
+    url: http://www.gutenberg.org/2009/agents/38034
+    wikipedia: http://en.wikipedia.org/wiki/Israel_Russell
+description: ''
+gutenberg_issued: '2011-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36024'
+  lccn: '04014166'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'North America'
+tableOfContents: The margin of the continent -- The topography of the land -- Climate
+  -- Plant life -- Animal life -- Geology -- The aborigines -- Political geography
+  -- Index.
+title: North America
+url: http://www.gutenberg.org/ebooks/36024

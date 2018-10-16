@@ -29,6 +29,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcc 'E011'
 - !lcsh 'North America'
+- GITenberg
 tableOfContents: The margin of the continent -- The topography of the land -- Climate
   -- Plant life -- Animal life -- Geology -- The aborigines -- Political geography
   -- Index.
